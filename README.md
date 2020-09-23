@@ -3,7 +3,8 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>Mr.Holmes</b>, Currently I am Content Creator at  <a href="https://tryhackme.com/">TryHackMe</a> and student pursuing my Bachelor's Of Computer Applications from Department of Computer Science, B.J.S Rampuria Jain Collage. I am a CTF player, Cyber Security Enthusiast and . And am always open for collaborating on projects and innovative open-source based ideas.</p>
+  <p>a.k.a <b>Mr.Holmes</b>, Currently I am a Content Creator at  <a href="https://tryhackme.com/">TryHackMe</a> and student pursuing my Bachelor's Of Computer Applications from { REDACTED ;) } Collage. I am also a CTF player, Cyber Security Enthusiast and (trying to be) bug bounty hunter. I am always open for collaborating on projects and innovative open-source based ideas.
+  P.S. I am activly looking for Cyber Security Internships.</p>
   
   <p><b>Connect with me through:</b></p>
   
