@@ -9,7 +9,7 @@
   
 [![Twitter Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/__MrHolmes)](https://twitter.com/__MrHolmes)
 [![Linkedin Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardeep-singh-/)](https://www.linkedin.com/in/hardeep-singh-/)
-[![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__MrHolmes)](https://www.instagram.com/umairnehri9747)
+[![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__MrHolmes)](https://www.instagram.com/__MrHolmes)
 [![Gmail Badge](https://img.shields.io/badge/-hp95565@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hp95565@gmail.com)](mailto:hp95565@gmail.com)
 
 <hr>
