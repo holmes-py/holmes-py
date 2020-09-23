@@ -3,7 +3,7 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>a.k.a <b>Mr.Holmes</b>, Currently I am a Content Creator at  <a href="https://tryhackme.com/">TryHackMe</a> and student pursuing my Bachelor's Of Computer Applications from { REDACTED ;) } Collage. I am also a CTF player, Cyber Security Enthusiast and (trying to be) bug bounty hunter. I am always open for collaborating on projects and innovative open-source based ideas.
+  <p>a.k.a <b>Mr.Holmes</b>, Currently I am a Content Creator at  <a href="https://tryhackme.com/">TryHackMe</a> and student pursuing my Bachelor's Of Computer Applications from B.J.S. Collage. I am also a CTF player, Cyber Security Enthusiast and (trying to be) bug bounty hunter. I am always open for collaborating on projects and innovative open-source based ideas.
   P.S. I am activly looking for Cyber Security Internships.</p>
   
   <p><b>Connect with me through:</b></p>
@@ -11,8 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/__MrHolmes)](https://twitter.com/__MrHolmes)
 [![Linkedin Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardeep-singh-/)](https://www.linkedin.com/in/hardeep-singh-/)
 [![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/__MrHolmes)](https://www.instagram.com/__MrHolmes)
-[![Gmail Badge](https://img.shields.io/badge/-hp95565@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hp95565@gmail.com)](mailto:hp95565@gmail.com)
-
+[![Gmail Badge](https://img.shields.io/badge/-hp95565@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hp95565@gmail.com)](mailto:hp95565@gmail.com)  
 <hr>
 
 <h1>Technologies</h1>
@@ -27,13 +26,13 @@
 <br>
 <h1>My GitHub Stats</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=holmes-py&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmes-py&theme=radical&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=holmes-py&show_icons=true&hide_border=true&count_private=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holmes-py&count_private=true&theme=vue-dark&layout=compact)
 <br>
 <h1>Featured Projects</h1>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=KoTH-counter&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=King-of-the-hill&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=subdomain-check&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=KoTH-counter&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=King-of-the-hill&theme=vue-dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=holmes-py&repo=subdomain-check&theme=vue-dark)
 
 </div>
