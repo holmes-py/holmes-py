@@ -19,7 +19,11 @@
 
 <br><br>
 <h1>Ranks</h1>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/holmes.png" alt="TryHackMe">
+
+<p align="center">
+  <img alt="S3 BUCKET IS BROKEN" src="https://tryhackme-badges.s3.amazonaws.com/holmes.png">
+</p>
+
 <h1>My Works</h1>
 <h3><a href="https://www.mr-holmes.ml/Articles" target="_blank"> Official Writeups of ZHERO Capture the flag Event.</a></h3>
 <h3><a href="https://tryhackme.com/games/koth/" target="_blank"> King of the Hill Machine: Hogwarts</a></h3>
