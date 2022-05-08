@@ -9,7 +9,7 @@
   
 [![Twitter Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/__MrHolmes)](https://twitter.com/__MrHolmes)
 [![Linkedin Badge](https://img.shields.io/badge/-Mr.Holmes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardeep-singh-/)](https://www.linkedin.com/in/hardeep-singh-/)
-[![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/__MrHolmes)](https://www.instagram.com/__MrHolmes)
+[![Instagram Badge](https://img.shields.io/badge/-Mr.Holmes-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/___MrHolmes)](https://www.instagram.com/__MrHolmes)
 [![Gmail Badge](https://img.shields.io/badge/-hp95565@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hp95565@gmail.com)](mailto:hp95565@gmail.com)  
 <hr>
 
@@ -26,7 +26,7 @@
 </p>
 
 <h1>My Works</h1>
-<h3><a href="https://www.mr-holmes.ml/Articles" target="_blank"> Official Writeups of ZHERO Capture the flag Event.</a></h3>
+<h3><a href="https://www.mrholmes.in/" target="_blank"> Official Writeups of ZHERO Capture the flag Event.</a></h3>
 <h3><a href="https://tryhackme.com/games/koth/" target="_blank"> King of the Hill Machine: Hogwarts</a></h3>
 <br>
 <h1>My GitHub Stats</h1>
