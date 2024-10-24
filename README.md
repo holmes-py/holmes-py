@@ -1,5 +1,5 @@
 # 💫 About Me:
-OSCP | eJPT<br>Bug Bounty and Cyber Security Researching <br>I am looking to collaborate with fellow Hunters on VDPs.<br>
+OSCP | CREST | CPSA | CRT | eJPT<br>Bug Bounty and Cyber Security Researching <br>I am looking to collaborate with fellow Hunters on VDPs.<br>
   
 I am/have also:
 - TryHackMe KoTH Staff Lead in Discord.
